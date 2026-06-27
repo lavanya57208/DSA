@@ -1,3 +1,3 @@
 # Arrays
 
-This folder contains my solutions to string-based DSA problems.
+This folder contains my solutions to array-based DSA problems.
